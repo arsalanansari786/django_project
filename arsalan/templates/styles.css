@@ -1,0 +1,11 @@
+#form{
+    display=flex;
+border=2px solid black;}
+p {
+    color: blue;
+    font-size: 18px;
+}
+h1 {
+    background-color: #ffcc00;
+    padding: 10px;
+}
